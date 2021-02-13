@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1613206944 source:c:\users\brian collins\onedrive - gmit\c++\gmit-course-cpp-lab4\classes lab 4\main.cpp
+	<iostream>
+	"labInfo.h"
+
+1613207008 c:\users\brian collins\onedrive - gmit\c++\gmit-course-cpp-lab4\classes lab 4\labinfo.h
+	<iostream>
+	<string>
+	<iomanip>
+
