@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614380630 source:c:\users\brian collins\onedrive - gmit\c++\gmit-course-cpplab5\lab-program-club\main.cpp
+	<iostream>
+	<string>
+	"football_club.h"
+	"player.h"
+
+1614381086 c:\users\brian collins\onedrive - gmit\c++\gmit-course-cpplab5\lab-program-club\football_club.h
+	<iostream>
+
+1614381086 c:\users\brian collins\onedrive - gmit\c++\gmit-course-cpplab5\lab-program-club\player.h
+	<iostream>
+
