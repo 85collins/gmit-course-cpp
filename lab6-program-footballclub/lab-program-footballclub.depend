@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1615585668 source:c:\users\brian collins\onedrive - gmit\c++\lab-program-footballclub\football_club.cpp
+	"football_club.h"
+
+1615589596 c:\users\brian collins\onedrive - gmit\c++\lab-program-footballclub\football_club.h
+	"player.h"
+	<iostream>
+
+1615584003 source:c:\users\brian collins\onedrive - gmit\c++\lab-program-footballclub\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1615589596 c:\users\brian collins\onedrive - gmit\c++\lab-program-footballclub\player.h
+	"football_club.h"
+	<iostream>
+
+1615581511 source:c:\users\brian collins\onedrive - gmit\c++\lab-program-footballclub\player.cpp
+	"player.h"
+
