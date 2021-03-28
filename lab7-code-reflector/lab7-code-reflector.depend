@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1616941883 source:c:\users\brian collins\onedrive - gmit\c++\lab7-code-reflector\football_club.cpp
+	"football_club.h"
+
+1616940966 c:\users\brian collins\onedrive - gmit\c++\lab7-code-reflector\football_club.h
+	<iostream>
+	"player.h"
+
+1616941339 c:\users\brian collins\onedrive - gmit\c++\lab7-code-reflector\player.h
+	<iostream>
+
+1616941883 source:c:\users\brian collins\onedrive - gmit\c++\lab7-code-reflector\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616941465 source:c:\users\brian collins\onedrive - gmit\c++\lab7-code-reflector\player.cpp
+	"player.h"
+
